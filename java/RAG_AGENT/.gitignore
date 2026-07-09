@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Sensitive API Keys & Configurations
+.env
+.streamlit/secrets.toml
+
+# Local User Uploaded Documents
+My_RAG/data/*
+!My_RAG/data/.gitkeep
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp

@@ -1,0 +1,13 @@
+streamlit
+pypdf
+faiss-cpu
+sentence-transformers
+langchain
+langchain-community
+langchain-openai
+langchain-groq
+python-dotenv
+pinecone-client
+langchain-pinecone
+langchain-google-genai
+
